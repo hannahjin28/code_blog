@@ -2,4 +2,16 @@
 title: "Hannah Jin"
 ---
 
-Hi
+## Welcome to my blog!
+
+I'm Hannah Jin, and this is my personal website where I share my thoughts and experiences.
+
+### About Me
+
+- Data Science enthusiast
+- R programmer
+- Currently working on interesting projects
+
+### Recent Posts
+
+Check back soon for upcoming blog posts!
